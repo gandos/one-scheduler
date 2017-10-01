@@ -1,4 +1,4 @@
-package id.web.gandos.OneScheduler;
+package id.web.gandos.OneScheduler.controller;
 
 import id.web.gandos.OneScheduler.domain.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
