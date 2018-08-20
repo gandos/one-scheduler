@@ -64,7 +64,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.citi.soc.scheduler.config.SocSchedulerApplication</mainClass>
+                    <mainClass>com.gandos.soc.scheduler.SchedulerApp</mainClass>
                 </configuration>
                 <executions>
                     <execution>
